@@ -1,3 +1,5 @@
+###EKSİK###
+
 import random
 #DOSYA OKUMA
 def dosyaOkuma(i:int):
