@@ -1,3 +1,4 @@
+# Histogram ve histograma bağlı frekans eksik. Dosya okumada değişiklik yapılacak.
 import random
 #DOSYA OKUMA
 def dosyaOkuma(i:int):
